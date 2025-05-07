@@ -6,7 +6,7 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
+# dist/  # 注释掉dist目录的忽略
 downloads/
 eggs/
 .eggs/

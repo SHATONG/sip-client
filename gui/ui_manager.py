@@ -179,7 +179,7 @@ class UIManager:
         header_frame.pack(fill=tk.X, pady=(0, 20))
         
         # iOS风格标题居中
-        header_label = ttk.Label(header_frame, text="SIP 电话", style='Header.TLabel')
+        header_label = ttk.Label(header_frame, text="杰瑞电子IP电话客户端", style='Header.TLabel')
         header_label.pack(side=tk.TOP, pady=15)
         
         # 添加一条分隔线
