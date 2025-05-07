@@ -50,4 +50,25 @@ Desktop.ini
 # 缓存文件
 .pytest_cache/
 .coverage
+htmlcov/
+
+# PyInstaller文件
+*.spec
+
+# 配置文件（可能包含敏感信息）
+# 如果配置文件不包含敏感信息，可以注释掉下面一行
+# sip_client_config.json
+
+# 临时文件
+*.bak
+*.tmp
+
+# Windows特定文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 缓存文件
+.pytest_cache/
+.coverage
 htmlcov/ 
