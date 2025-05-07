@@ -1,0 +1,10 @@
+{
+    "server": "10.20.25.111",
+    "username": "1012",
+    "password": "1234",
+    "pjsua_path": "pjsua.exe",
+    "port": "20574",
+    "auto_login": true,
+    "current_username": "1012",
+    "current_server": "10.20.25.111\n"
+}
