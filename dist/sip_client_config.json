@@ -1,0 +1,10 @@
+{
+    "server": "10.20.25.111",
+    "username": "1011",
+    "password": "1234",
+    "pjsua_path": "I:/led workspace/code/pyexe/pjsua.exe",
+    "port": "50292",
+    "auto_login": true,
+    "current_username": "1011",
+    "current_server": "10.20.25.111\n"
+}
